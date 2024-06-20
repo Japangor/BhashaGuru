@@ -1,0 +1,2 @@
+# BhashaGuru
+ BhashGuru is a dynamic language learning app designed to make mastering new languages fun and engaging. Combining the best of Hindi and English, BhashGuru offers interactive lessons, personalized quizzes, and real-time feedback to help users progress quickly. Whether you're a beginner or looking to enhance your skills, BhashGuru provides a comprehensive learning experience with a touch of local flavor. Join the community of learners and become a language master with BhashGuru!
